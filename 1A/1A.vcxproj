@@ -125,10 +125,6 @@
   <ItemGroup>
     <ClCompile Include="1A.c" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include=".gitignore" />
-    <Content Include="Directory.Build.Props" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
