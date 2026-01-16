@@ -1,6 +1,6 @@
 
 # JetBrains Rider
-.idea
+/.idea
 
 # Artifacts
 /x64
