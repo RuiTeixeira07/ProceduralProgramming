@@ -1,0 +1,7 @@
+
+# JetBrains Rider
+.idea
+
+# Artifacts
+/x64
+/*/x64
